@@ -1,0 +1,12 @@
+{
+  "plugins": ["-highlight", "prism-ext", "custom-js-css"],
+  "author": "Vitalij Lapshin",
+  "pluginsConfig": {
+    "prism": {
+      "theme": "plugins/prism-darcula.css",
+      "plugins": ["line-numbers", "line-highlight", ["plugins/custom.css", "plugins/custom.js"]],
+      "codeBlockExtSyntax": true,
+      "lineHeight": 20
+    }
+  }
+}
