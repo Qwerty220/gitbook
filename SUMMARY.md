@@ -2,13 +2,14 @@
 
 * [Introduction](README.md)
 
+---
 
 * Must have
   * [Maven](first-question.md)
   * Git
 * Java 8
 * Java Database
-  * SQL
+  * [SQL](sql.md)
   * PostgreSQL / H2
   * Liquibase
   * JDBC
@@ -40,6 +41,7 @@
   * Vaadin
   * Spring WebFlux
 
+---
 
 * Spring
   * Spring Core
@@ -76,6 +78,7 @@
   * ActiveMQ
 * Patterns
 
+---
 
 * [Another](second-question.md)
   * Log4j + SLF4J
@@ -89,5 +92,4 @@
   * Socket
   * Plain text
   * Quartz
-
 
