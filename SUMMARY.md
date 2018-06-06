@@ -4,12 +4,12 @@
 
 ---
 
-* Must have
+* [Must have](must-have.md)
   * [Maven](first-question.md)
   * Git
-* Java 8
+* [Java 8](java-8.md)
 * Java Database
-  * [SQL](sql.md)
+  * [БД и SQL](sql.md)
   * PostgreSQL / H2
   * Liquibase
   * JDBC
