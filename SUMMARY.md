@@ -65,8 +65,8 @@
   * SOAP
   * Spring WS
   * Spring Microservice
-* Dev environment
-  * Docker
+* [Dev environment](dev-environment.md)
+  * [Docker](dev-environment/docker.md)
   * Jenkins
   * Ansible
   * Travis
