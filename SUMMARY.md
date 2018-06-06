@@ -71,7 +71,7 @@
   * Ansible
   * Travis
   * SonarQube
-  * Linux
+  * [Linux](dev-environment/linux.md)
 * Message broker
   * JMS
   * Spring JMS
