@@ -62,7 +62,7 @@ pre[class*="language-"] {
 .token.comment,
 .token.prolog,
 .token.cdata {
-	color: #808080;
+	color: #ffffff;
 }
 
 .token.delimiter,
