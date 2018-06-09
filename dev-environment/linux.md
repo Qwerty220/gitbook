@@ -111,5 +111,5 @@ root@8badb90a35b9:~# ls /usr -dl
 drwxr-xr-x 1 root root 4096 May 26 00:44 /usr
 ```
 
-
+![](/assets/Снимок экрана 2018-06-09 в 20.57.13.png)
 
